@@ -24,7 +24,7 @@
 <img width="300" alt="スクリーンショット 2020-06-09 18 30 50" src="https://user-images.githubusercontent.com/66576691/84131350-688f1f00-aa7f-11ea-90ea-89708487d161.png">
 </div>
 
-6.端末Aにて「書き込み完了」と出たら書き込みが完了(端末AのBLEデータベースに「"test write without response"」というデータが書き込まれます）
+6.端末Aにて「書き込み完了」のログが出たら書き込みが完了(端末AのBLEデータベースに「"test write without response"」というデータが書き込まれます）
 <div align="left">
 <img width="556" alt="スクリーンショット 2020-06-09 18 38 15" src="https://user-images.githubusercontent.com/66576691/84132108-6bd6da80-aa80-11ea-8c89-24b219dd3188.png">
 </div>
